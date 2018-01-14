@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quitter</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_task_name_label">What activity are you trying to give up?</string>
+    <string name="name_example_smoking">Smoking</string>
+    <string name="new_task_start_date">When did you begin to give up this activity?</string>
+    <string name="submit">Submit</string>
+    <string name="new_task_header">New Quit Activity</string>
+</resources>
